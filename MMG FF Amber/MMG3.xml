@@ -32,23 +32,35 @@
     <Bond type1="X1" type2="D4" length="0.09" k="80000.0"/>
     <Bond type1="X1" type2="D6" length="0.09" k="80000.0"/>
     <Bond type1="X1" type2="D5" length="0.09" k="80000.0"/>
+    <Bond type1="D1" type2="D2" length="0.1273" k="80000.0"/>
+    <Bond type1="D1" type2="D3" length="0.1273" k="80000.0"/>
+    <Bond type1="D1" type2="D5" length="0.1273" k="80000.0"/>
+    <Bond type1="D1" type2="D6" length="0.1273" k="80000.0"/>
+    <Bond type1="D2" type2="D3" length="0.1273" k="80000.0"/>
+    <Bond type1="D2" type2="D4" length="0.1273" k="80000.0"/>
+    <Bond type1="D2" type2="D5" length="0.1273" k="80000.0"/>
+    <Bond type1="D3" type2="D4" length="0.1273" k="80000.0"/>
+    <Bond type1="D3" type2="D6" length="0.1273" k="80000.0"/>
+    <Bond type1="D4" type2="D5" length="0.1273" k="80000.0"/>
+    <Bond type1="D4" type2="D6" length="0.1273" k="80000.0"/>
+    <Bond type1="D5" type2="D6" length="0.1273" k="80000.0"/>
   </HarmonicBondForce>
   <HarmonicAngleForce>
-    <Angle type1="D1" type2="X1" type3="D2" angle="1.5708" k="523.0"/>
-    <Angle type1="D1" type2="X1" type3="D3" angle="1.5708" k="523.0"/>
-    <Angle type1="D1" type2="X1" type3="D4" angle="3.141592653589793" k="523.0"/>
-    <Angle type1="D1" type2="X1" type3="D5" angle="1.5708" k="523.0"/>
-    <Angle type1="D1" type2="X1" type3="D6" angle="1.5708" k="523.0"/>
-    <Angle type1="D2" type2="X1" type3="D3" angle="1.5708" k="523.0"/>
-    <Angle type1="D2" type2="X1" type3="D4" angle="3.141592653589793" k="523.0"/>
-    <Angle type1="D2" type2="X1" type3="D5" angle="1.5708" k="523.0"/>
-    <Angle type1="D2" type2="X1" type3="D6" angle="3.141592653589793" k="523.0"/>
-    <Angle type1="D3" type2="X1" type3="D4" angle="1.5708" k="523.0"/>
-    <Angle type1="D3" type2="X1" type3="D5" angle="3.141592653589793" k="523.0"/>
-    <Angle type1="D3" type2="X1" type3="D6" angle="1.5708" k="523.0"/>
-    <Angle type1="D4" type2="X1" type3="D5" angle="1.5708" k="523.0"/>
-    <Angle type1="D4" type2="X1" type3="D6" angle="1.5708" k="523.0"/>
-    <Angle type1="D5" type2="X1" type3="D6" angle="1.5708" k="523.0"/>
+    <Angle type1="D1" type2="X1" type3="D2" angle="1.5708" k="530.0"/>
+    <Angle type1="D1" type2="X1" type3="D3" angle="1.5708" k="530.0"/>
+    <Angle type1="D1" type2="X1" type3="D4" angle="3.141592653589793" k="530.0"/>
+    <Angle type1="D1" type2="X1" type3="D5" angle="1.5708" k="530.0"/>
+    <Angle type1="D1" type2="X1" type3="D6" angle="1.5708" k="530.0"/>
+    <Angle type1="D2" type2="X1" type3="D3" angle="1.5708" k="530.0"/>
+    <Angle type1="D2" type2="X1" type3="D4" angle="3.141592653589793" k="530.0"/>
+    <Angle type1="D2" type2="X1" type3="D5" angle="1.5708" k="530.0"/>
+    <Angle type1="D2" type2="X1" type3="D6" angle="3.141592653589793" k="530.0"/>
+    <Angle type1="D3" type2="X1" type3="D4" angle="1.5708" k="530.0"/>
+    <Angle type1="D3" type2="X1" type3="D5" angle="3.141592653589793" k="530.0"/>
+    <Angle type1="D3" type2="X1" type3="D6" angle="1.5708" k="530.0"/>
+    <Angle type1="D4" type2="X1" type3="D5" angle="1.5708" k="530.0"/>
+    <Angle type1="D4" type2="X1" type3="D6" angle="1.5708" k="530.0"/>
+    <Angle type1="D5" type2="X1" type3="D6" angle="1.5708" k="530.0"/>
   </HarmonicAngleForce>
 <NonbondedForce coulomb14scale="0.8333333333333334" lj14scale="0.5">
     <Atom type="X1" charge="-1.0" sigma="0.184594" epsilon="0.2761"/>
