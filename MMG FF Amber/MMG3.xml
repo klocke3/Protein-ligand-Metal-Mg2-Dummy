@@ -51,12 +51,12 @@
     <Angle type1="D5" type2="X1" type3="D6" angle="1.5708" k="523.0"/>
   </HarmonicAngleForce>
 <NonbondedForce coulomb14scale="0.8333333333333334" lj14scale="0.5">
-    <Atom type="X1" charge="-1.0" sigma="0.092297" epsilon="0.2761"/>
-    <Atom type="D1" charge="0.5" sigma="0.1236745" epsilon="0.00000004184"/>
-    <Atom type="D2" charge="0.5" sigma="0.1236745" epsilon="0.00000004184"/>
-    <Atom type="D3" charge="0.5" sigma="0.1236745" epsilon="0.00000004184"/>
-    <Atom type="D4" charge="0.5" sigma="0.1236745" epsilon="0.00000004184"/>
-    <Atom type="D5" charge="0.5" sigma="0.1236745" epsilon="0.00000004184"/>
-    <Atom type="D6" charge="0.5" sigma="0.1236745" epsilon="0.00000004184"/>
+    <Atom type="X1" charge="-1.0" sigma="0.184594" epsilon="0.2761"/>
+    <Atom type="D1" charge="0.5" sigma="0.2473490" epsilon="0.00000004184"/>
+    <Atom type="D2" charge="0.5" sigma="0.2473490" epsilon="0.00000004184"/>
+    <Atom type="D3" charge="0.5" sigma="0.2473490" epsilon="0.00000004184"/>
+    <Atom type="D4" charge="0.5" sigma="0.2473490" epsilon="0.00000004184"/>
+    <Atom type="D5" charge="0.5" sigma="0.2473490" epsilon="0.00000004184"/>
+    <Atom type="D6" charge="0.5" sigma="0.2473490" epsilon="0.00000004184"/>
 </NonbondedForce>
 </ForceField>
