@@ -35,7 +35,7 @@ parser.add_argument("--negative-ion", default="Cl-", help="Negative ion for solv
 parser.add_argument("--ionic-strength", type=float, default="0", help="Ionic strength for solvation")
 parser.add_argument("--no-neutralize", action='store_true', help="Don't add ions to neutralize")
 parser.add_argument("-e", "--equilibration-steps", type=int, default=200, help="Number of equilibration steps")
-parser.add_argument("--protein-force-field", default='amber/ff14SB.xml', help="Protein force field")
+parser.add_argument("--protein-force-field", default='amber/ff03.xml', help="Protein force field")
 parser.add_argument("--additional-protein-force-field", default='amber/MMG.xml', help="Additional protein force field (optional)")
 parser.add_argument("--ligand-force-field", default='gaff-2.11', help="Ligand force field")
 parser.add_argument("--water-force-field", default='amber/tip3p_standard.xml', help="Ligand force field")
