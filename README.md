@@ -4,7 +4,6 @@
 This google colab has been adjusted to perform a simple molecular dynamics (MD) of the OpenMM - Simple-Simulate-Complex developed by Tim Dudgeon and John Chodera (https://github.com/tdudgeon/simple-simulate-complex) with Mg2+-dependent metalloproteins. In this case, some parameters have been adjusted so that an Mg2+ dummy is recognized that is capable of performing octahedral coordination during the DM and maintaining an orientation that is closer to what is expected biologically (https://doi.org/10.1021/acs.jcim.5b00286).
 
 ![logo do projeto](/coord_MG_NgCPH_oxy.png)
-![logo do projeto](/9mvn71.gif)
 <p align="center">
   <img src="/9mvn71.gif" alt="Descrição da Imagem" />
 </p>
