@@ -5,3 +5,6 @@ This google colab has been adjusted to perform a simple molecular dynamics (MD) 
 
 ![logo do projeto](/coord_MG_NgCPH_oxy.png)
 ![logo do projeto](/9mvn71.gif)
+<p align="center">
+  <img src="/9mvn71.gif" alt="Descrição da Imagem" />
+</p>
