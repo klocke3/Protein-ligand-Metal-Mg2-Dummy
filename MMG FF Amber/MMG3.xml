@@ -26,24 +26,24 @@
   </Residue>
 </Residues>
   <HarmonicBondForce>
-    <Bond type1="X1" type2="D1" length="0.09" k="80000.0"/>
-    <Bond type1="X1" type2="D2" length="0.09" k="80000.0"/>
-    <Bond type1="X1" type2="D3" length="0.09" k="80000.0"/>
-    <Bond type1="X1" type2="D4" length="0.09" k="80000.0"/>
-    <Bond type1="X1" type2="D6" length="0.09" k="80000.0"/>
-    <Bond type1="X1" type2="D5" length="0.09" k="80000.0"/>
-    <Bond type1="D1" type2="D2" length="0.1273" k="80000.0"/>
-    <Bond type1="D1" type2="D3" length="0.1273" k="80000.0"/>
-    <Bond type1="D1" type2="D5" length="0.1273" k="80000.0"/>
-    <Bond type1="D1" type2="D6" length="0.1273" k="80000.0"/>
-    <Bond type1="D2" type2="D3" length="0.1273" k="80000.0"/>
-    <Bond type1="D2" type2="D4" length="0.1273" k="80000.0"/>
-    <Bond type1="D2" type2="D5" length="0.1273" k="80000.0"/>
-    <Bond type1="D3" type2="D4" length="0.1273" k="80000.0"/>
-    <Bond type1="D3" type2="D6" length="0.1273" k="80000.0"/>
-    <Bond type1="D4" type2="D5" length="0.1273" k="80000.0"/>
-    <Bond type1="D4" type2="D6" length="0.1273" k="80000.0"/>
-    <Bond type1="D5" type2="D6" length="0.1273" k="80000.0"/>
+    <Bond type1="X1" type2="D1" length="0.09" k="334720.0"/>
+    <Bond type1="X1" type2="D2" length="0.09" k="334720.0"/>
+    <Bond type1="X1" type2="D3" length="0.09" k="334720.0"/>
+    <Bond type1="X1" type2="D4" length="0.09" k="334720.0"/>
+    <Bond type1="X1" type2="D6" length="0.09" k="334720.0"/>
+    <Bond type1="X1" type2="D5" length="0.09" k="334720.0"/>
+    <Bond type1="D1" type2="D2" length="0.1273" k="334720.0"/>
+    <Bond type1="D1" type2="D3" length="0.1273" k="334720.0"/>
+    <Bond type1="D1" type2="D5" length="0.1273" k="334720.0"/>
+    <Bond type1="D1" type2="D6" length="0.1273" k="334720.0"/>
+    <Bond type1="D2" type2="D3" length="0.1273" k="334720.0"/>
+    <Bond type1="D2" type2="D4" length="0.1273" k="334720.0"/>
+    <Bond type1="D2" type2="D5" length="0.1273" k="334720.0"/>
+    <Bond type1="D3" type2="D4" length="0.1273" k="334720.0"/>
+    <Bond type1="D3" type2="D6" length="0.1273" k="334720.0"/>
+    <Bond type1="D4" type2="D5" length="0.1273" k="334720.0"/>
+    <Bond type1="D4" type2="D6" length="0.1273" k="334720.0"/>
+    <Bond type1="D5" type2="D6" length="0.1273" k="334720.0"/>
   </HarmonicBondForce>
   <HarmonicAngleForce>
     <Angle type1="D1" type2="X1" type3="D2" angle="1.5708" k="1040.0"/>
