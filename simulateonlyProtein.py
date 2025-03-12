@@ -1,6 +1,7 @@
 """
-Run a MD simulation for a complex, optionally adding a solvent box
+Run a MD simulation for a protein adding a solvent box
 """
+# comand !python simulateonlyProtein.py -p prepared_metal_protein.pdb --additional-protein-force-field amber/MMG3.xml -s 5000 --solvate
 
 import sys, time, argparse
 
