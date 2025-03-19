@@ -4,6 +4,8 @@ This google colab has been adjusted to perform a simple molecular dynamics (MD) 
 
 The entire execution process is hosted on Google Colab [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JWrIuQTpksdFexwtlSpfdo1y5ZQazJIL). and is automated so that all you have to do is enter the protein and the desired ligand. The preparation of the protein and the ligand, adjusting the charges and replacing the Mg2+ atom with the Mg2+-dummy takes place automatically. Simulation with only the protein or only the ligand in water is also being implemented.
 
+e-mail: caio.zamuner@usp.br
+
 <p align="center">
   <img src="/9mvn71.gif" alt="Descrição da Imagem" />
 </p>
